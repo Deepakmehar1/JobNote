@@ -8,20 +8,14 @@
       "name": "About",
       "url": "/about/"
     },
-    {
-      "name": "Series",
-      "url": "/series/"
-    },
+    
 
     {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Authors",
-          "url": "/authors/"
-        },
+       
         {
           "name": "Categories",
           "url": "/categories/"

@@ -4,9 +4,8 @@ meta_title: "Getting Started with Astro - Part 1: Introduction and Setup"
 description: "Learn what Astro is, why it's gaining popularity, and how to set up your first Astro project in this comprehensive introduction."
 date: 2023-10-20
 image: "../../assets/images/astro-basics.svg"
-authors: ["dragos"]
-categories: ["Web Development"]
-tags: ["astro", "jamstack", "static-site-generator"]
+categories: ["Web"]
+tags: ["job", "result", "admit"]
 series: ["Astro Get Started", "1"]
 ---
 
