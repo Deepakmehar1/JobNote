@@ -3,7 +3,6 @@ title: "IBPS RRB PO Cut Off 2025: State-wise, Category-wise & Previous Year Tren
 meta_title: "IBPS RRB PO Cut Off 2025 – State-wise, Category-wise & Previous Year Analysis"
 description: "Check IBPS RRB PO Cut Off 2025 with expected state-wise and section-wise cut-offs, along with detailed previous year trends for 2024, 2023, and 2022."
 date: 2025-01-13
-image: "/images/ibps-rrb-po-cutoff-2025.webp"
 authors: ["Admin"]
 categories: ["Bank Exams", "IBPS RRB"]
 tags: ["IBPS RRB PO", "RRB PO Cut Off 2025", "Bank Exam Cut Off", "Officer Scale I"]
