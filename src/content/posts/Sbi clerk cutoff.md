@@ -2,8 +2,9 @@
 title: "SBI Clerk Cut Off 2025–26: State-wise & Category-wise Analysis (Expected vs Previous Years)"
 meta_title: "SBI Clerk Cut Off 2025–26 – Expected & Previous Year State-wise Analysis"
 description: "Check SBI Clerk Cut Off 2025–26 with expected state-wise cut-offs, category-wise comparison, and previous year trends for Prelims and Mains exams."
-date: 2025-01-13
-authors: ["Admin"]
+date: 2026-01-16
+image: "../../assets/images/astro-components.svg"
+authors: ["admin"]
 categories: ["Bank Exams", "SBI"]
 tags: ["SBI Clerk Cut Off", "SBI Clerk 2025", "Bank Exam Cut Off", "SBI Clerk Mains"]
 ---
