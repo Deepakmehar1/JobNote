@@ -3,7 +3,7 @@ title: "IBPS RRB Clerk Cut Off 2025: State-wise & Category-wise Analysis of Prev
 meta_title: "IBPS RRB Clerk Cut Off 2025: State-wise & Category-wise Analysis of Previous Year Marks"
 description: "Learn how to create reusable components in Astro and manage content with Markdown and data fetching capabilities."
 date: 2026-01-09
-image: "../../assets/images/astro-components.svg"
+image: "../../assets/images/Rrp_clerk_cutoff_5.webp"
 authors: ["admin"]
 categories: ["previous year cutoff"]
 tags: ["Bank Exams", "IBPS", "Cutoff Analysis", "IBPS RRB Clerk", "Expected Cutoff", "stategy", "prelims", "mains", "rrb"]
