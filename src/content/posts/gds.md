@@ -2,8 +2,8 @@
 title: "भारतीय डाक GDS भर्ती 2026: 28,740 पदों के लिए बिना परीक्षा सीधी भर्ती"
 meta_title: "India Post GDS भर्ती 2026 – 28,740 पद | बिना परीक्षा सीधी भर्ती"
 description: "भारतीय डाक GDS भर्ती 2026 में 28,740 पदों पर बिना परीक्षा सीधी भर्ती। पात्रता, आयु सीमा, वेतन, चयन प्रक्रिया और आवेदन की पूरी जानकारी।"
-date: 2026-01-13
-image: "../../image/Rrp_po_cutoff_5.webp"
+date: 2026-01-20
+image: "../../assets/image/Rrp_po_cutoff_5.webp"
 authors: ["Admin"]
 categories: ["सरकारी नौकरी", "India Post"]
 tags: ["GDS भर्ती 2026", "India Post GDS", "बिना परीक्षा सरकारी नौकरी", "डाक विभाग भर्ती"]
