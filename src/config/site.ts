@@ -22,7 +22,7 @@ export const siteConfig = {
   
   // SEO settings (existing in site.ts)
   noindex: {
-    tags: true, // Set to true to add noindex meta tag to tag pages
+    tags: false, // Set to true to add noindex meta tag to tag pages
     categories: false, // Set to true to add noindex meta tag to category pages
     authors: false, // Set to true to add noindex meta tag to author pages
   },
